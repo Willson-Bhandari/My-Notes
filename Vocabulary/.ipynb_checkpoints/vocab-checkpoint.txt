@@ -18,4 +18,8 @@ subtle : (adjective) small
 nuance : (noun) a very slight difference in something
 delve: (verb) to reach inside of the surface to find something
      : to examine something in detail.
+intermediary: (noun) a person through wihich someone send message or gain message from whom not willing to meet or unable to meet
+
+
+
 
